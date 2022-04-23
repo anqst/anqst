@@ -1,5 +1,5 @@
 ---
-`code`
+`
 while (true) {
     while (true) {
       while (true) {
@@ -11,7 +11,7 @@ while (true) {
     }
   }
 }
-`code`
+`
 ---
 <!--
 **anqst/anqst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
