@@ -1,9 +1,4 @@
-
-***
-
-cool n epic not am i.
-
-***
+hi.
 
 <!--
 **anqst/anqst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
